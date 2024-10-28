@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 4,
+      "documentId": "kr82ycoo4pxglf31xm1cjon6",
+      "title": "A great article",
+      "content": "lfksajasoiharjpwqnebdugasiukcjnjuhiokjknaejbsdhfuiudijb jvkjcnkzjxvsjxnl",
+      "author": "Jenny from the block",
+      "views": "25",
+      "createdAt": "2024-10-28T09:16:40.375Z",
+      "updatedAt": "2024-10-28T09:20:13.011Z",
+      "publishedAt": "2024-10-28T09:20:13.017Z"
+    },
+    {
+      "id": 5,
+      "documentId": "o9gxuflcruri2onjbwvw7p0v",
+      "title": "Another awesome article",
+      "content": "dkmczxnbxvnxcvncxvcxnvnxcnvxcnvnxcnvnxcvnxcnvncxvnxcn",
+      "author": "User213945",
+      "views": "1",
+      "createdAt": "2024-10-28T09:17:17.331Z",
+      "updatedAt": "2024-10-28T09:20:27.172Z",
+      "publishedAt": "2024-10-28T09:20:27.177Z"
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
